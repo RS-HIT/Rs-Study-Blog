@@ -35,6 +35,10 @@ git clone https://github.com/username/repo.git
 git push origin main --force
 ```
 ## 1.2 分支管理
+查看分支
+```Bash
+git branch
+```
 切换分支
 ```Bash
 git checkout main
